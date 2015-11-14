@@ -40,3 +40,7 @@ body {
 .pull-left li {
   display: inline;
 }
+
+.dlbutton {
+  text-align: center;
+}
