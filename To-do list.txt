@@ -1,5 +1,5 @@
 About Page - (done)
-Contact Us Page - missing validation
+Contact Us Page - (done)
 Download Page - not started
 Email Sent Page - not started
 Forgot Login Page - not started 
@@ -11,4 +11,4 @@ Register Page - missing email adress field validation
 Register Success Page - not started
 Thank You Page - not started
 
-Fix links for everything. (do this last)
+Fix links for everything. (do this last)https://www.reddit.com/

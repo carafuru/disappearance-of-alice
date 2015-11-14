@@ -46,18 +46,18 @@
     </header>
   </div>
   <center><form action="" method="POST" enctype="multipart/form-data">
-    <input name="action" value="submit" type="hidden"> Name:
+    <input name="action" value="submit" type="hidden" required> Name:
     <br>
-    <input name="name" size="30" type="text">
+    <input name="name" size="30" type="text" required>
     <br> Email:
     <br>
-    <input name="name" size="30" type="text">
+    <input name="name" size="30" type="text" required>
     <br> Subject:
     <br>
-    <input name="email" size="30" type="text">
+    <input name="email" size="30" type="text" required>
     <br> Your message:
     <br>
-    <textarea name="message" rows="7" cols="30">
+    <textarea name="message" rows="7" cols="30" required>
     </textarea>
     <br>
     <input value="Send email" type="submit">
