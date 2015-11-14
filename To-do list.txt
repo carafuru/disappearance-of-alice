@@ -2,10 +2,10 @@ About Page - (done)
 Contact Us Page - (done)
 Download Page - (done)
 Email Sent Page - (done)
-Forgot Login Page - not started 
+Forgot Login Page - (done)
 Index Page - (done)
 Login Page - (done)
-Login Success Page - not started
+Login Success Page (done)
 Media Page - (done)
 Register Page - (done)
 Register Success Page - not started
