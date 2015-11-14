@@ -2,7 +2,7 @@ About Page - (done)
 Contact Us Page - (done)
 Download Page - (done)
 Email Sent Page - (done)
-Forgot Login Page - (done)
+Forgot Login Page - not started 
 Index Page - (done)
 Login Page - (done)
 Login Success Page - not started
