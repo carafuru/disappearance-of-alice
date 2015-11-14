@@ -7,7 +7,7 @@ Index Page - (done)
 Login Page - (done)
 Login Success Page - not started
 Media Page - (done)
-Register Page - missing email adress field validation
+Register Page - (done)
 Register Success Page - not started
 Thank You Page - not started
 
