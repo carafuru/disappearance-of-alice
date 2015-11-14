@@ -8,7 +8,7 @@ Login Page - (done)
 Login Success Page (done)
 Media Page - (done)
 Register Page - (done)
-Register Success Page - not started
-Thank You Page - not started
+Register Success Page (done)
+Thank You Page - (done)
 
 Fix links for everything. (do this last)
