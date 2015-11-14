@@ -1,7 +1,7 @@
 About Page - (done)
 Contact Us Page - (done)
 Download Page - (done)
-Email Sent Page - not started
+Email Sent Page - (done)
 Forgot Login Page - not started 
 Index Page - (done)
 Login Page - (done)
