@@ -39,29 +39,31 @@
     </div>
   </div>
 
-  <div id="container">
-    <header>
-      <h1>CONTACT US</h1>
-      <p>We like to help!</p>
-    </header>
-  </div>
-  <center><form action="" method="POST" enctype="multipart/form-data">
-    <input name="action" value="submit" type="hidden" required> Name:
-    <br>
-    <input name="name" size="30" type="text" required>
-    <br> Email:
-    <br>
-    <input type="email" size="30" required>
-    <br> Subject:
-    <br>
-    <input name="subject" size="30" type="text" required>
-    <br> Your message:
-    <br>
-    <textarea name="message" rows="7" cols="30" required>
-    </textarea>
-    <br>
-    <input value="Send email" type="submit">
-  </form></center>
+   <div class="container">
+
+    <form class="form-signin" action="registersuccess.html">
+      <h2 class="form-signin-heading">Send us a message!</h2>
+      <p>Feel free to contact us if you require any help. We even accept hate mail!</p>
+      <div class="form-group">
+        <label for="inputName">Name:</label>
+        <input type="name" id="inputName" class="form-control" placeholder="Username" required autofocus>
+      </div>
+      <div class="form-group">
+        <label for="inputEmail">Email address:</label>
+        <input type="email" class="form-control" id="inputEmail" placeholder="Email" required>
+      </div>
+      <div class="form-group">
+        <label for="inputSubject">Subject:</label>
+        <input type="name" id="inputSubject" class="form-control" placeholder="Username" required>
+      </div>
+      <div class="form-group">
+        <label for="inputMessage">Message:</label>
+        <textarea class="form-control" id="inputMessage" rows="3" required></textarea>
+      </div>
+
+      <button class="btn btn-primary btn-md raised" type="submit">SEND</button>
+    </form>
+  
   <hr>
 
   <footer>
