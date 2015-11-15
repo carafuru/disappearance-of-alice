@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>The Disappearance of Alice</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-  <link href="contactstyle.css" rel="stylesheet">
+  <link href="alicestyle.css" rel="stylesheet">
 </head>
 
 <body>
@@ -35,39 +35,28 @@
     <div class="container">
       <h1 id="title">The Disappearance of Alice</h1>
       <p>Lorem ipsum dolor sit amet.</p>
-      <p><a class="btn btn-primary btn-lg raised" href="#" role="button">PLAY NOW &raquo;</a></p>
+      <p><a class="btn btn-primary btn-lg raised" href="#" role="button">BACK HOME &raquo;</a></p>
     </div>
   </div>
 
-  <div id="container">
-    <header>
-      <h1>CONTACT US</h1>
-      <p>We like to help!</p>
-    </header>
-  </div>
-  <center><form action="" method="POST" enctype="multipart/form-data">
-    <input name="action" value="submit" type="hidden" required> Name:
-    <br>
-    <input name="name" size="30" type="text" required>
-    <br> Email:
-    <br>
-    <input name="name" size="30" type="text" required>
-    <br> Subject:
-    <br>
-    <input name="email" size="30" type="text" required>
-    <br> Your message:
-    <br>
-    <textarea name="message" rows="7" cols="30" required>
-    </textarea>
-    <br>
-    <input value="Send email" type="submit">
-  </form></center>
-  <hr>
+  <div class="container">
 
-  <footer>
-    <p>&copy; Kurt and Friends Interactive 2015</p>
-  </footer>
+    <form class="form-signin">
+      <h2 class="form-signin-heading">Please log in:</h2>
+      <label for="inputEmail" class="sr-only">Username</label>
+      <input type="name" id="inputName" class="form-control" placeholder="Username" required autofocus>
+      <label for="inputPassword" class="sr-only">Password</label>
+      <input type="password" id="inputPassword" class="form-control" placeholder="Password" required>
+      <div class="checkbox">
+        <label>
+          <input type="checkbox" value="remember-me"> Remember me
+        </label>
+      </div>
+      <button class="btn btn-primary btn-md raised" type="submit">Sign in</button>
+    </form>
+
   </div>
+  <!-- /container -->
 
 
 </body>
