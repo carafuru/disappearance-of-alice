@@ -1,14 +1,14 @@
-About Page - (done)
-Contact Us Page - (done)
-Download Page - (done)
-Email Sent Page - (done)
-Forgot Login Page - (done)
-Index Page - (done)
-Login Page - (done)
-Login Success Page (done)
-Media Page - (done)
-Register Page - (done)
-Register Success Page (done)
-Thank You Page - (done)
+About Page - (done) kurt
+Contact Us Page - (done) kurt
+Download Page - (done) kurt
+Email Sent Page - (done) kurt
+Forgot Login Page - (done) jason
+Index Page - (done) jason
+Login Page - (done) jason
+Login Success Page (done) jason
+Media Page - (done) nick
+Register Page - (done) nick 
+Register Success Page (done) nick
+Thank You Page - (done) nick
 
 Fix links for everything. (do this last)
