@@ -56,42 +56,17 @@
         <input type="password" class="form-control" id="inputConfirmPassword" placeholder="Email" required>
       </div>
       <div class="form-group">
-        <label for="inputConfirmPassword">Subject:</label>
+        <label for="inputConfirmPassword">Confirm password:</label>
         <input type="password" class="form-control" id="inputConfirmPassword" placeholder="Confirm password" required>
       </div>
       <div class="form-group">
         <label for="inputEmail">Email:</label>
         <input type="email" class="form-control" id="inputEmail" placeholder="Email" required>
       </div>
-      
-
       <button class="btn btn-primary btn-md raised" type="submit">REGISTER</button>
     </form>
 
   </div>
-
-<script>
-$(document).ready(function() {
-    $('#identicalForm').formValidation({
-        framework: 'bootstrap',
-        icon: {
-            valid: 'glyphicon glyphicon-ok',
-            invalid: 'glyphicon glyphicon-remove',
-            validating: 'glyphicon glyphicon-refresh'
-        },
-        fields: {
-            confirmPassword: {
-                validators: {
-                    identical: {
-                        field: 'password',
-                        message: 'Passwords do not match'
-                    }
-                }
-            }
-        }
-    });
-});
-</script>
 </body>
 
 </html>
