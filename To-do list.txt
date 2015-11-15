@@ -1,7 +1,7 @@
 About Page - (all done)
-Contact Us Page - (done) kurt
+Contact Us Page - (all done)
 Download Page - (done) kurt
-Email Sent Page - (done) kurt
+Email Sent Page - (all done)
 Forgot Login Page - (done) jason
 Index Page - (done) jason
 Login Page - (done) jason
